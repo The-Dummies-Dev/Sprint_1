@@ -5,4 +5,14 @@ Me llamo Marcos Bautista Perez, soy el Scrum Master de este proyecto; creé esta
 Demas miembros del grupo por favor agregar sus commit apartir de aquí:
 
 
-Me llamo Juan Carlos Bolaños, soy el product owner, me encargare de levantar los requerimientos del cliente.
+
+
+me llamo Raymond Moreno Mora soy  desarrollador y me encargo de programar el aplicativo web
+
+
+
+
+
+
+
+
