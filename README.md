@@ -6,3 +6,5 @@ Demás miembros del grupo por favor agregar sus commit apartir de aquí:
 
 
 Me llamo Juan Carlos Bolaños, soy el product owner, me encargare de levantar los requerimientos del cliente.
+
+Este es un muevo commit desde git. Marcos.
