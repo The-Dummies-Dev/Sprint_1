@@ -10,3 +10,5 @@ Me llamo Juan Carlos Bolaños, soy el product owner, me encargare de levantar lo
 Este es un muevo commit desde git. Marcos.
 
 Me llamo Cristian Caleb Fontanilla Ramirez, soy el Stakeholders, Me encargare de que el aplicativo cumpla con las necesidades que requiere la junta de acción comunal. 
+
+Me llamo Raymond Moreno Mora, soy el programador, me encargo del desarrollo del aplicativo web.
